@@ -8,6 +8,15 @@ The cart adds the total amount of items as well the cost of all items thanks to 
 This clone also has a working authentication system with a sign in and sign out feature.
 The sign in (email & password) was super simple thanks to the Firebase configs.
 
+## How to test sign in features:
+
+On the sign in page:
+
+1. Enter a random email (e.g: 12312@1313.com)
+2. Enter a random password.
+3. click on "Create your Amazon Account".
+4. And you're good to go!
+
 Please note that this project is not mobile friendly yet. I'll look into making it responsive whenever I can. For now, I'd recommend viewing this project from an actual desktop browser.
 
 ## Everything achieved here was done with REACT, REACT Router, REACT Context API and firebase
