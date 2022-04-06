@@ -8,15 +8,13 @@ The cart adds the total amount of items as well the cost of all items thanks to 
 This clone also has a working authentication system with a sign in and sign out feature.
 The sign in (email & password) was super simple thanks to the Firebase configs.
 
+## Everything achieved here was done with REACT, REACT Router, REACT Context API and firebase
 
 
-## Getting Started with Create React App
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
