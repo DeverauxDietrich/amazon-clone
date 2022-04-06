@@ -8,6 +8,8 @@ The cart adds the total amount of items as well the cost of all items thanks to 
 This clone also has a working authentication system with a sign in and sign out feature.
 The sign in (email & password) was super simple thanks to the Firebase configs.
 
+Please note that this project is not mobile friendly yet. I'll look into making it responsive whenever I can. For now, I'd recommend viewing this project from an actual desktop browser.
+
 ## Everything achieved here was done with REACT, REACT Router, REACT Context API and firebase
 
 
