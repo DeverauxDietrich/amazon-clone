@@ -1,4 +1,4 @@
-#Amazon Clone
+# Amazon Clone
 
 What an awesome project this was 🚀
 
