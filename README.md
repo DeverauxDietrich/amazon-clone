@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+#Amazon Clone
+
+What an awesome project this was 🚀
+
+This project consists of the Amazon homepage, which includes a bunch of products which can be added to cart, or removed.
+The cart adds the total amount of items as well the cost of all items thanks to the react currency format.
+
+This clone also has a working authentication system with a sign in and sign out feature.
+The sign in (email & password) was super simple thanks to the Firebase configs.
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
